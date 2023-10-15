@@ -43,7 +43,7 @@ namespace QuestionExplorer.Users.Repositories
                 {
                     Email = userModel.Email,
                     Username = userModel.Username,
-                    AdminId = admin.Id,
+                    AdminId = admin != null ? admin.Id : null,
                     Password = PasswordHasher.HashPassword(userPassword),
                 };
 

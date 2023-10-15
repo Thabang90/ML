@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DCzokjyddpn7RzDqqFoHvNLa6LgJdMcvdYJmL0AzumRoPJWZ9PmQ4ObvaDe3E4NTtXhSMdeSkkphWx3tVTZP4A==",
+  "dgSpecHash": "5QQoezYVRNYNbDw/Rjqu5sJqF67Hq57bAW49O+lXD/XP2ANZDcNHQac+aFYtdACJ+KKDOj1JZ6hpfvECAS38bQ==",
   "success": true,
-  "projectFilePath": "C:\\THABANG\\ML\\BE\\QuestionExplorer\\QuestionExplorer.csproj",
+  "projectFilePath": "C:\\Users\\ThabangSepeng\\ML\\BE\\ML\\QuestionExplorer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThabangSepeng\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ThabangSepeng\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -83,7 +83,11 @@
     "C:\\Users\\ThabangSepeng\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\ThabangSepeng\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\ThabangSepeng\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\ThabangSepeng\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\ThabangSepeng\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ThabangSepeng\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ThabangSepeng\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ThabangSepeng\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ThabangSepeng\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }
