@@ -31,7 +31,7 @@ namespace QuestionExplorer.Questions.Repositories
             var question = await this.appContext.Questions.FirstOrDefaultAsync(x => x.Id == questionModel.Id);
             if(question != null)
             {
-                question.PromptQuestion = questionModel.Question;
+                question.PromptQuestion = questionModel.PromptQuestion;
                 question.Subject = questionModel.Subject;
 
                 await this.appContext.UpdateAsync(question);

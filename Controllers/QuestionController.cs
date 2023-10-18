@@ -18,7 +18,7 @@ namespace QuestionExplorer.Controllers
         [HttpPost("add")]
         public async Task<IActionResult> AddQuestionAsync([FromBody] QuestionModel questionModel)
         {
-            await this.questionRepository.AddQuestionAsync(questionModel.Question, questionModel.Subject);
+            await this.questionRepository.AddQuestionAsync(questionModel.PromptQuestion, questionModel.Subject);
             return Ok(new
             {
                 Message = "Question has been added successfully"

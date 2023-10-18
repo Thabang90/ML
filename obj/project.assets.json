@@ -3999,23 +3999,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ThabangSepeng\\.nuget\\packages\\": {},
+    "C:\\Users\\D813T\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThabangSepeng\\ML\\BE\\ML\\QuestionExplorer.csproj",
+      "projectUniqueName": "C:\\BANGLADESH\\ML-Backend\\ML\\QuestionExplorer.csproj",
       "projectName": "QuestionExplorer",
-      "projectPath": "C:\\Users\\ThabangSepeng\\ML\\BE\\ML\\QuestionExplorer.csproj",
-      "packagesPath": "C:\\Users\\ThabangSepeng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThabangSepeng\\ML\\BE\\ML\\obj\\",
+      "projectPath": "C:\\BANGLADESH\\ML-Backend\\ML\\QuestionExplorer.csproj",
+      "packagesPath": "C:\\Users\\D813T\\.nuget\\packages\\",
+      "outputPath": "C:\\BANGLADESH\\ML-Backend\\ML\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ThabangSepeng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\D813T\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4037,9 +4037,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -4088,24 +4085,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.23, 6.0.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4114,7 +4093,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
